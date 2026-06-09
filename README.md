@@ -86,7 +86,7 @@ Country 391 generated the highest invoice value.
 
 ## Customer Risk Intelligence
 
-![Customer Risk Intelligence](screenshots/customer_risk_intelligence.png)
+![Customer Risk Intelligence](screenshots/customer_risk_Intelligence.png)
 
 ---
 
@@ -99,20 +99,6 @@ Country 391 generated the highest invoice value.
 ## Dispute & Regional Analysis
 
 ![Dispute & Regional Analysis](screenshots/regional_dispute_analysis.png)
-
----
-
-# Project Structure
-
-Accounts-Receivable-Analytics
-│
-├── data
-├── src
-├── reports
-├── screenshots
-├── dashboard
-└── README.md
-
 
 ---
 
